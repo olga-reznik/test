@@ -4,7 +4,7 @@ import tkinter as tk
 #
 clicks = 1
 number = 0
-number1 = 0
+number1 = 1
 #
 press_return = True
 #
